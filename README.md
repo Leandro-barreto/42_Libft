@@ -1,4 +1,4 @@
-Creating a library of useful and custom function for projects in C.
+Creating a library of useful and custom functions for projects in C.
 
 Grade by Moulinette:
 
